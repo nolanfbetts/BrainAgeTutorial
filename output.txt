@@ -1,0 +1,203 @@
+
+Using device: mps
+Note: Using MPS (Apple Silicon GPU)
+Using strided convolution for MPS device
+Starting training...
+
+Epoch [1/50]
+Learning Rate: 0.001000
+Max Gradient Norm: 3.4927
+Training Loss: 1.0034
+Validation Loss: 1.1130
+
+Training Metrics:
+MAE: 6.18 years
+RMSE: 7.65 years
+
+Validation Metrics:
+MAE: 6.73 years
+RMSE: 8.03 years
+--------------------------------------------------
+
+Epoch [2/50]
+Learning Rate: 0.002000
+Max Gradient Norm: 2.9394
+Training Loss: 0.9818
+Validation Loss: 1.1231
+
+Training Metrics:
+MAE: 6.15 years
+RMSE: 7.58 years
+
+Validation Metrics:
+MAE: 6.77 years
+RMSE: 8.08 years
+--------------------------------------------------
+
+Epoch [3/50]
+Learning Rate: 0.003000
+Max Gradient Norm: 4.2989
+Training Loss: 0.9851
+Validation Loss: 1.1293
+
+Training Metrics:
+MAE: 6.14 years
+RMSE: 7.59 years
+
+Validation Metrics:
+MAE: 6.78 years
+RMSE: 8.09 years
+--------------------------------------------------
+
+Epoch [4/50]
+Learning Rate: 0.003000
+Max Gradient Norm: 3.8886
+Training Loss: 0.9816
+Validation Loss: 1.1072
+
+Training Metrics:
+MAE: 6.11 years
+RMSE: 7.57 years
+
+Validation Metrics:
+MAE: 6.71 years
+RMSE: 8.01 years
+--------------------------------------------------
+
+Epoch [5/50]
+Learning Rate: 0.003000
+Max Gradient Norm: 2.2234
+Training Loss: 0.9772
+Validation Loss: 1.1124
+
+Training Metrics:
+MAE: 6.11 years
+RMSE: 7.55 years
+
+Validation Metrics:
+MAE: 6.73 years
+RMSE: 8.03 years
+--------------------------------------------------
+
+Epoch [6/50]
+Learning Rate: 0.003000
+Max Gradient Norm: 2.5815
+Training Loss: 0.9787
+Validation Loss: 1.1349
+
+Training Metrics:
+MAE: 6.11 years
+RMSE: 7.55 years
+
+Validation Metrics:
+MAE: 6.79 years
+RMSE: 8.11 years
+--------------------------------------------------
+
+Epoch [7/50]
+Learning Rate: 0.003000
+Max Gradient Norm: 2.5775
+Training Loss: 0.9799
+Validation Loss: 1.1261
+
+Training Metrics:
+MAE: 6.11 years
+RMSE: 7.55 years
+
+Validation Metrics:
+MAE: 6.77 years
+RMSE: 8.08 years
+--------------------------------------------------
+
+Epoch [8/50]
+Learning Rate: 0.003000
+Max Gradient Norm: 2.3303
+Training Loss: 0.9759
+Validation Loss: 1.1308
+
+Training Metrics:
+MAE: 6.12 years
+RMSE: 7.55 years
+
+Validation Metrics:
+MAE: 6.78 years
+RMSE: 8.10 years
+--------------------------------------------------
+
+Epoch [9/50]
+Learning Rate: 0.003000
+Max Gradient Norm: 2.3996
+Training Loss: 0.9720
+Validation Loss: 1.1357
+
+Training Metrics:
+MAE: 6.10 years
+RMSE: 7.54 years
+
+Validation Metrics:
+MAE: 6.80 years
+RMSE: 8.11 years
+--------------------------------------------------
+
+Epoch [10/50]
+Learning Rate: 0.001500
+Max Gradient Norm: 2.1045
+Training Loss: 0.9762
+Validation Loss: 1.1220
+
+Training Metrics:
+MAE: 6.11 years
+RMSE: 7.54 years
+
+Validation Metrics:
+MAE: 6.76 years
+RMSE: 8.06 years
+--------------------------------------------------
+
+Epoch [11/50]
+Learning Rate: 0.001500
+Max Gradient Norm: 1.6124
+Training Loss: 0.9729
+Validation Loss: 1.1358
+
+Training Metrics:
+MAE: 6.11 years
+RMSE: 7.54 years
+
+Validation Metrics:
+MAE: 6.80 years
+RMSE: 8.11 years
+--------------------------------------------------
+
+Epoch [12/50]
+Learning Rate: 0.001500
+Max Gradient Norm: 2.3416
+Training Loss: 0.9737
+Validation Loss: 1.1459
+
+Training Metrics:
+MAE: 6.11 years
+RMSE: 7.54 years
+
+Validation Metrics:
+MAE: 6.82 years
+RMSE: 8.15 years
+--------------------------------------------------
+
+Epoch [13/50]
+Learning Rate: 0.001500
+Max Gradient Norm: 5.1082
+Training Loss: 0.9685
+Validation Loss: 1.2025
+
+Training Metrics:
+MAE: 6.08 years
+RMSE: 7.51 years
+
+Validation Metrics:
+MAE: 7.00 years
+RMSE: 8.33 years
+--------------------------------------------------
+
+Early stopping triggered at epoch 13
+Best validation loss was 1.1072 at epoch 3
