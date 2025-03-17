@@ -1,5 +1,5 @@
 # BrainAgeTutorial
-Project for AI in Healther course as part of a Master's Program at UT Austin. This project leverages the OASIS dataset to try and predict brain age of patients using a CNN on brain scan MRIs 
+Project for AI in Health care course as part of a Master's Program at UT Austin. This project leverages the OASIS dataset to try and predict brain age of patients using a CNN on brain scan MRIs 
 
 This project implements a deep learning model to predict brain age from structural MRI scans. The model uses a 3D Convolutional Neural Network (CNN) with residual blocks to analyze brain MRI data and estimate the chronological age of subjects.
 
